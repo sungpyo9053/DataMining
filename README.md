@@ -1,3 +1,3 @@
 # DataMining
 
-빅데
+빅데이터 
